@@ -1,2 +1,4 @@
-# Arkanoid
-Implementation of Arkanoid game in Haskell using Gloss.
+# FP003-arkanoid
+Arkanoid: 
+Implementation of the game in Haskell using Gloss.
+
